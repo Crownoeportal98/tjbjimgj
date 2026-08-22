@@ -1,25 +1,26 @@
-# Android Emulator 🎮
+# Facebook Messenger 📱
 
-[![GitHub Stars](https://img.shields.io/github/stars/frtview/android-emulator?style=flat-square)](https://github.com/frtview/android-emulator)
-[![GitHub Forks](https://img.shields.io/github/forks/frtview/android-emulator?style=flat-square)](https://github.com/frtview/android-emulator)
-[![GitHub Issues](https://img.shields.io/github/issues/frtview/android-emulator?style=flat-square)](https://github.com/frtview/android-emulator)
+[![GitHub Stars](https://img.shields.io/github/stars/frtview/facebook-messenger?style=flat-square)](https://github.com/frtview/facebook-messenger)
+[![GitHub Forks](https://img.shields.io/github/forks/frtview/facebook-messenger?style=flat-square)](https://github.com/frtview/facebook-messenger)
+[![GitHub Issues](https://img.shields.io/github/issues/frtview/facebook-messenger?style=flat-square)](https://github.com/frtview/facebook-messenger)
 
-> Android emulator toolkit for running Android apps on desktop with full compatibility.
+> Facebook Messenger SDK and API wrapper libraries.
 
 ## 📊 SEO Keywords
 
 | Keyword | Volume | Traffic |
 |---------|--------|---------|
-| android emulator github | 40 | 12.16 |
-| android-emulator github | 40 | 12.16 |
+| hack facebook messenger | 320 | 6.3 |
+| messenger facebook java | 40 | 2.64 |
+| facebook messenger for java | 40 | 0.36 |
 
 ## 🚀 Features
 
-- 🎮 Full Android emulation on desktop
-- ⚡ High performance rendering
-- 🔧 Customizable device profiles
-- 📱 Support for multiple Android versions
-- 🖱️ Keyboard & mouse mapping
+- 📱 Full Messenger API support
+- 💬 Message sending & receiving
+- 📎 File sharing
+- 🔔 Push notifications
+- 📊 Read receipts
 
 ## 📥 Quick Start
 
